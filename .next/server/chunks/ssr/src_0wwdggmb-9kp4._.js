@@ -1,3 +1,0 @@
-module.exports=[61915,a=>{"use strict";var b=a.i(7997),c=a.i(72253);a.s(["default",0,function({children:a}){return(0,b.jsx)(c.PageTransition,{children:a})}])},43511,function(a){a.n(a.i(61915))},37714,a=>{"use strict";let b=(0,a.i(11857).registerClientReference)(function(){throw Error("Attempted to call PageTransition() from the server but PageTransition is on the client. It's not possible to invoke a client function from the server, it can only be rendered as a Component or passed to props of a Client Component.")},"[project]/src/components/motion/PageTransition.tsx","PageTransition");a.s(["PageTransition",0,b])},72253,a=>{"use strict";var b=a.i(37714);a.n(b)}];
-
-//# sourceMappingURL=src_0wwdggmb-9kp4._.js.map

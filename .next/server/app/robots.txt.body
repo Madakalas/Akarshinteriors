@@ -1,6 +1,0 @@
-User-Agent: *
-Allow: /
-Disallow: /api/
-Disallow: /thank-you
-
-Sitemap: https://akarshinteriors.com/sitemap.xml
