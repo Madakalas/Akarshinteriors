@@ -1,0 +1,55 @@
+import {
+  Armchair,
+  BedDouble,
+  Box,
+  ChefHat,
+  ClipboardCheck,
+  DoorClosed,
+  FileText,
+  Gem,
+  Hammer,
+  House,
+  KeyRound,
+  Lamp,
+  LampCeiling,
+  Layers,
+  MapPin,
+  MessagesSquare,
+  Ruler,
+  ScanEye,
+  Sofa,
+  Tv,
+  Users,
+  Zap,
+  type LucideIcon,
+} from "lucide-react";
+
+const map: Record<string, LucideIcon> = {
+  kitchen: ChefHat,
+  wardrobe: DoorClosed,
+  home: House,
+  sofa: Sofa,
+  bed: BedDouble,
+  tv: Tv,
+  lamp: Lamp,
+  ceiling: LampCeiling,
+  armchair: Armchair,
+  cube: Box,
+  site: MapPin,
+  quote: FileText,
+  design: ScanEye,
+  consult: MessagesSquare,
+  materials: Layers,
+  execution: Hammer,
+  handover: KeyRound,
+  measure: Ruler,
+  detail: Gem,
+  team: Users,
+  check: ClipboardCheck,
+  fast: Zap,
+};
+
+export function Icon({ name, className, strokeWidth = 1.5 }: { name: string; className?: string; strokeWidth?: number }) {
+  const C = map[name] ?? Box;
+  return <C className={className} strokeWidth={strokeWidth} aria-hidden />;
+}
