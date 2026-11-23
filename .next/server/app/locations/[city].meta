@@ -1,0 +1,43 @@
+{
+  "status": 200,
+  "headers": {
+    "link": "</_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/chunks/3mnzxihfteuhn.css>; rel=preload; as=\"style\"",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/locations/layout,_N_T_/locations/[city]/layout,_N_T_/locations/[city]/page"
+  },
+  "postponed": "2869:8[\"city\"][0,{\"nextSegmentId\":0,\"rootFormatContext\":{\"insertionMode\":0,\"selectedValue\":null,\"tagScope\":0,\"viewTransition\":null},\"progressiveChunkSize\":12800,\"resumableState\":{\"idPrefix\":\"\",\"nextFormID\":0,\"streamingFormat\":0,\"bootstrapScripts\":[{\"src\":\"/_next/static/chunks/1pcw6gskne7pf.js\"}],\"instructions\":0,\"hasBody\":false,\"hasHtml\":false,\"unknownResources\":{\"font\":{\"/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2\":[],\"/_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2\":[]}},\"dnsResources\":{},\"connectResources\":{\"default\":{},\"anonymous\":{},\"credentials\":{}},\"imageResources\":{},\"styleResources\":{\"/_next/static/chunks/3mnzxihfteuhn.css\":[]},\"scriptResources\":{},\"moduleUnknownResources\":{},\"moduleScriptResources\":{}},\"replayNodes\":[[\"sl\",0,[[\"Context\",0,[[\"Context\",0,[[\"ServerInsertedHTMLProvider\",0,[[\"Context\",0,[[\"il\",0,[[\"aW\",0,[[\"aV\",0,[[\"az\",0,[[\"io\",0,[[\"Fragment\",0,[[\"Context\",2,[[\"Context\",0,[[\"Context\",0,[[\"Context\",0,[[\"Context\",0,[[\"Context\",0,[[\"Context\",0,[[\"aW\",0,[[\"aV\",0,[[\"az\",0,[[\"as\",0,[[\"ai\",0,[[\"is\",\"/locations/$d$city/__PAGE__/_head\",[[\"Fragment\",\"h\",[[\"__next_metadata_boundary__\",2,[[\"div\",0,[[\"Suspense\",0,[],2,[\"Suspense Fallback\",0,[],null],2]],null]],null]],null]],null],[\"__next_root_layout_boundary__\",1,[[\"Fragment\",\"c\",[[\"html\",1,[[\"body\",0,[[\"main\",3,[[null,0,[[\"Activity\",\"locations\",[[\"Context\",\"locations\",[[null,2,[[\"ForwardRef(motion.div)\",0,[[\"Context\",0,[[\"div\",1,[[null,0,[[\"Fragment\",0,[[\"E\",0,[[\"D\",0,[[\"Fragment\",0,[[\"n\",0,[[\"Fragment\",0,[[\"G\",0,[[\"Fragment\",0,[[null,0,[[\"l\",0,[[\"x\",0,[[\"w\",0,[[\"F\",0,[[\"Context\",0,[[\"Fragment\",\"c\",[[null,1,[[\"Activity\",\"city|d\",[[\"Context\",\"city|d\",[[null,2,[[\"Fragment\",0,[[\"E\",0,[[\"D\",0,[[\"Fragment\",0,[[\"n\",0,[[\"Fragment\",0,[[\"G\",0,[[\"Fragment\",0,[[null,0,[[\"Fragment\",0,[[\"x\",0,[[\"w\",0,[[\"F\",0,[[\"Context\",0,[[\"Fragment\",\"c\",[[null,1,[[\"Activity\",\"__PAGE__\",[[\"Context\",\"__PAGE__\",[[null,2,[[\"Fragment\",0,[[\"E\",0,[[\"D\",0,[[\"Fragment\",0,[[\"n\",0,[[\"Fragment\",0,[[\"G\",0,[[\"Fragment\",0,[[null,0,[[\"Fragment\",0,[[\"x\",0,[[\"w\",0,[[\"F\",0,[[\"Context\",0,[[\"Fragment\",\"c\",[[\"Suspense\",0,[],3,[\"Suspense Fallback\",0,[],null],3],[\"__next_outlet_boundary__\",2,[[\"Suspense\",0,[],4,[\"Suspense Fallback\",0,[],null],4]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],null]],\"replaySlots\":-1}]eJwdj8tugzAURP/lrq3KxMYF71K1iySiTdtF2wCLi7kkRLxqnDQI+d8rshsdjeZoZhhdbwn0DBU5cwI9ewYGzenO0gwiXqxUZcowFEIIpYSIcRVhJZGM5FUhDRU8oNgUGbA0Z2kG++9hsjv8lZ/Jdu2m6tC9X74yyPNlkjpnpyVcsbkQaEie+3r7sr5tjv3t7bz5S84/O2Dg8DiCTnMGo8OGQAvOGbi6pdFhO4AOHuNQhpyrII6iB6UY0G2oly+Ky2gpW7piU5foCHSkJOd+YVh+9L3bo8X2FVu6S7xnQJ2x0+CofOovXbm2i3723v8Dzd5ctw==",
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/locations/$d$city/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49248,
+            "slots": {
+              "children": {
+                "hints": 49312,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/4bbd082cfd0b93993d762a298b757ab4c9361932acada9841c852426f1e924f6/$/locations/[city]",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/locations/[city]/page"
+    },
+    "isFallback": true
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "/_global-error": {
+    "hints": 49216,
+    "slots": {
+      "children": {
+        "hints": 49312,
+        "slots": null
+      }
+    }
+  },
+  "/_not-found": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/3d-design": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/about": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/contact": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/locations/[city]": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49248,
+            "slots": {
+              "children": {
+                "hints": 49312,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "/locations": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/materials/finishes": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49248,
+            "slots": {
+              "children": {
+                "hints": 49312,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "/materials": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49280,
+        "slots": null
+      }
+    }
+  },
+  "/privacy-policy": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/process": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/projects/[slug]": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49248,
+            "slots": {
+              "children": {
+                "hints": 49312,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "/projects": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/services/[slug]": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49248,
+            "slots": {
+              "children": {
+                "hints": 49312,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "/services": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/terms": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "/thank-you": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  }
+}

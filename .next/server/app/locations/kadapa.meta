@@ -1,0 +1,42 @@
+{
+  "status": 200,
+  "headers": {
+    "link": "</_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\", </_next/static/media/9d036f80216c14ee-s.p.3u4lli0-axodc.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/locations/layout,_N_T_/locations/[city]/layout,_N_T_/locations/[city]/page,_N_T_/locations/kadapa"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/_index",
+    "/locations/$d$city/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 49152,
+    "slots": {
+      "children": {
+        "hints": 49216,
+        "slots": {
+          "children": {
+            "hints": 49248,
+            "slots": {
+              "children": {
+                "hints": 49312,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/4bbd082cfd0b93993d762a298b757ab4c9361932acada9841c852426f1e924f6/$/locations/kadapa",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/locations/[city]/page"
+    },
+    "isFallback": false
+  }
+}

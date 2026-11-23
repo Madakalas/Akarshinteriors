@@ -1,0 +1,15 @@
+{
+  "node": {
+    "80b26fcd55333366339a28af4aec40fb4ceb01e9cb": {
+      "workers": {
+        "app/3d-design/page": {
+          "moduleId": 20917,
+          "async": false
+        }
+      },
+      "exportedName": "$$RSC_SERVER_CACHE_0",
+      "filename": "src/components/layout/CurrentYear.tsx"
+    }
+  },
+  "edge": {}
+}
